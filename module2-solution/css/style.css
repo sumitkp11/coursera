@@ -50,6 +50,12 @@ p {
 }
 /* For Mobile devices*/
 @media (max-width: 767px){
+  .col-sl-1{
+    width: 100%;
+    float: left;
+
+
+  }
 
 
 }
