@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Coursera - HTML, CSS and JavaScript for Web Developers
 
 You can use the [editor on GitHub](https://github.com/sumitkp11/coursera/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
