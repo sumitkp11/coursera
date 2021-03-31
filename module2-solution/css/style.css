@@ -57,7 +57,8 @@ section {
     width: 33.33%;
   }
 
-}  border: 1px solid black;
+
+}
 
 /* For Tablet devices*/
 @media (min-width: 768px) and (max-width: 991px){
@@ -70,6 +71,8 @@ section {
   .col-md-1{
     float: left;
 
+
+
   }
 
 }
@@ -78,6 +81,9 @@ section {
   .col-sl-1{
     width: 100%;
     float: left;
+
+
   }
+
 
 }
