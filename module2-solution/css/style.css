@@ -21,9 +21,11 @@ section {
 	color: black;
 	position: relative;
   overflow: auto;
+  margin-top: 1px ;
+  margin-bottom: 1px;
 
 }
-#section-title {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -36,12 +38,36 @@ section {
 	padding: 5px;
 	background-color: #FFFF00;
 }
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #32a850;
+}
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #3279a8;
+}
 .container {
 	border: none;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 10px;
-	margin-bottom: 10px;
 	padding: 10px;
 }
 
